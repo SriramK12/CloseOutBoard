@@ -28,7 +28,7 @@ npm run preview    # serve the production build
 
 ### Deploy
 
-Live at https://sriramk12.github.io/closeoutboard/. `.github/workflows/deploy.yml` tests and builds the app on every push to `main` and publishes `dist/` to the `gh-pages` branch, which GitHub Pages serves (Settings > Pages > Source: "Deploy from a branch", `gh-pages`, `/ (root)`). The build uses relative paths and hash routing, so it works from any static host.
+Live at https://sriramk12.github.io/CloseOutBoard/. `.github/workflows/deploy.yml` tests and builds the app on every push to `main` and publishes `dist/` to the `gh-pages` branch, which GitHub Pages serves (Settings > Pages > Source: "Deploy from a branch", `gh-pages`, `/ (root)`). The build uses relative paths and hash routing, so it works from any static host.
 
 ## What's in the prototype
 
